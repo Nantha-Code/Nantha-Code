@@ -137,12 +137,12 @@ I build things that work on both ends of the wire — React interfaces users wan
 
 | Skill | Level | Proficiency |
 |---|---|---|
-| React.js | ![React](https://img.shields.io/badge/-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black) |  
-| Python | ![Python](https://img.shields.io/badge/-Language-3776AB?style=flat-square&logo=python&logoColor=white) |
-| Flask | ![Flask](https://img.shields.io/badge/-Backend-000000?style=flat-square&logo=flask&logoColor=white) |
-| PostgreSQL | ![PG](https://img.shields.io/badge/-Database-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| JavaScript | ![JS](https://img.shields.io/badge/-Language-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| Redux | ![Redux](https://img.shields.io/badge/-Frontend-764ABC?style=flat-square&logo=redux&logoColor=white) | 
+| React.js | ![React](https://img.shields.io/badge/-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black) | ![82%](https://progress-bar.xyz/82/?scale=100&title=React.js&width=200&color=61dafb&suffix=%) |
+| Python | ![Python](https://img.shields.io/badge/-Language-3776AB?style=flat-square&logo=python&logoColor=white) | ![80%](https://progress-bar.xyz/80/?scale=100&title=Python&width=200&color=3776ab&suffix=%) |
+| Flask | ![Flask](https://img.shields.io/badge/-Backend-000000?style=flat-square&logo=flask&logoColor=white) | ![78%](https://progress-bar.xyz/78/?scale=100&title=Flask&width=200&color=00d4aa&suffix=%) |
+| PostgreSQL | ![PG](https://img.shields.io/badge/-Database-336791?style=flat-square&logo=postgresql&logoColor=white) | ![74%](https://progress-bar.xyz/74/?scale=100&title=PostgreSQL&width=200&color=336791&suffix=%) |
+| JavaScript | ![JS](https://img.shields.io/badge/-Language-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![76%](https://progress-bar.xyz/76/?scale=100&title=JavaScript&width=200&color=f7df1e&suffix=%) |
+| Redux | ![Redux](https://img.shields.io/badge/-Frontend-764ABC?style=flat-square&logo=redux&logoColor=white) | ![68%](https://progress-bar.xyz/68/?scale=100&title=Redux&width=200&color=764abc&suffix=%) |
 
 ---
 
