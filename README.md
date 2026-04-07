@@ -33,24 +33,8 @@
 
 <!-- ── ABOUT ME ────────────────────────────────────────────────── -->
 
-<img align="right" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="380" alt="contribution snake" />
 
-### `$ whoami`
-
-```python
-developer = {
-    "name"       : "Nanthakumar P",
-    "role"       : "Full Stack Developer",
-    "stack"      : ["Python", "Flask", "React.js", "PostgreSQL"],
-    "location"   : "Chennai, Tamil Nadu, India",
-    "certified"  : "BCS Training Academy — Mar 20, 2026",
-    "available"  : True,
-    "contact"    : "nnantha971@gmail.com",
-    "phone"      : "+91 7826872037",
-}
-
-print(f"Building production apps · {developer['location']}")
-```
+### `$ who am i`
 
 I build things that work on both ends of the wire — React interfaces users want to use, Flask APIs that hold under real load, and PostgreSQL schemas designed to stay fast as data grows.
 
@@ -68,83 +52,72 @@ I build things that work on both ends of the wire — React interfaces users wan
 
 ## 🛠️ Tech Stack
 
-<!-- LANGUAGES -->
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
-<!-- FRONTEND -->
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
-
-</details>
-
-<!-- BACKEND -->
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-</details>
-
-<!-- DATABASE -->
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<!-- TOOLS -->
-<details open>
-<summary><b>🧰 Tools & Workflow</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</details>
-
----
-
-<!-- ── PROFICIENCY BARS (SVG) ─────────────────────────────────── -->
-
-## 📊 Proficiency at a glance
-
-| Skill | Level | Proficiency |
-|---|---|---|
-| React.js | ![React](https://img.shields.io/badge/-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black) | ![82%](https://progress-bar.xyz/82/?scale=100&title=React.js&width=200&color=61dafb&suffix=%) |
-| Python | ![Python](https://img.shields.io/badge/-Language-3776AB?style=flat-square&logo=python&logoColor=white) | ![80%](https://progress-bar.xyz/80/?scale=100&title=Python&width=200&color=3776ab&suffix=%) |
-| Flask | ![Flask](https://img.shields.io/badge/-Backend-000000?style=flat-square&logo=flask&logoColor=white) | ![78%](https://progress-bar.xyz/78/?scale=100&title=Flask&width=200&color=00d4aa&suffix=%) |
-| PostgreSQL | ![PG](https://img.shields.io/badge/-Database-336791?style=flat-square&logo=postgresql&logoColor=white) | ![74%](https://progress-bar.xyz/74/?scale=100&title=PostgreSQL&width=200&color=336791&suffix=%) |
-| JavaScript | ![JS](https://img.shields.io/badge/-Language-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![76%](https://progress-bar.xyz/76/?scale=100&title=JavaScript&width=200&color=f7df1e&suffix=%) |
-| Redux | ![Redux](https://img.shields.io/badge/-Frontend-764ABC?style=flat-square&logo=redux&logoColor=white) | ![68%](https://progress-bar.xyz/68/?scale=100&title=Redux&width=200&color=764abc&suffix=%) |
-
----
+## Skills and Tools
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Languages</th>
+      </tr>
+    </thead>
+    <tr>
+ </td>
+      <td align="center" width=110>  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a532e36b-cde4-4db7-a492-438d422a913e" /> </td>
+      <td align="center" width=110>  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/346dc48c-19bc-4132-957a-c09c9899e4fd" /> </td>
+      <td align="center" width=110>  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/11881c5a-571e-40f6-ab85-eec9d5abfa9a" /> </td>
+      <td align="center" width=110> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c487a974-fbd5-473e-a9ea-84a174f1a617" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Python</td>
+      <td align="center" width=110>JavaScript</td>
+      <td align="center" width=110>React</td>
+        <td align="center" width=110>Flask</td>
+      <td align="center" width=110>HTML</td>
+      <td align="center" width=110>CSS</td>
+      <td align="center" width=110>PostgreSQL</td>
+    </tr>
+  </table>
+  <table>
+    <thead>
+    <tr>
+      <th colspan="7">Tools</th>
+    </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+      <td align="center" width=110> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/561739d4-f13f-43f0-a1e2-db7aff2e8efa" /> </td>
+      <td align="center" width=110> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d665bbef-ca69-4212-96f6-b942ff37c313" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>VSCode</td>
+      <td align="center" width=110>Git</td>
+      <td align="center" width=110>GitHub</td>
+      <td align="center" width=110>CodePen</td>
+      <td align="center" width=110>Figma</td>
+    </tr>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Operating Systems</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
+      <td align="center" width=110> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e26af443-223f-446d-9312-69bc23e72a00" /> </td>
+    <tr> 
+      <td align="center" width=110>Windows</td>
+      <td align="center" width=110>Linux</td>
+      <td align="center" width=110>Ubuntu</td>
+    </tr>
+  </table>
+</div>
 
 <!-- ── FEATURED PROJECTS ───────────────────────────────────────── -->
 
