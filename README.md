@@ -34,14 +34,13 @@
 <!-- ── ABOUT ME ────────────────────────────────────────────────── -->
 
 
-### `$ who am i`
+### `Who am i`
 
 I build things that work on both ends of the wire — React interfaces users want to use, Flask APIs that hold under real load, and PostgreSQL schemas designed to stay fast as data grows.
 
-- 🔭 Currently building **EquipNet India** (Flask + React + PostgreSQL)
+
 - 🌱 Deepening skills in **REST API design**, **SQL optimisation**, **Redux patterns**
 - 💬 Ask me about **Python · Flask · React.js · PostgreSQL**
-- 📫 Reach me at **nnantha971@gmail.com** · **+91 7826872037**
 - ⚡ Fun fact: I reduced DB query latency through indexing before I learned its technical name
 
 <br clear="right"/>
@@ -202,14 +201,14 @@ A real-time weather dashboard consuming the OpenWeatherMap API through a Flask b
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  🏢  FULL STACK INTERN                                          │
-│      Business Core Solutions · Chennai, Tamil Nadu             │
-│      Dec 2025 – Mar 2026 · 3 Months                           │
+│      Business Core Solutions · Chennai, Tamil Nadu              │
+│      Dec 2025 – Mar 2026 · 3 Months                             │
 │                                                                 │
-│  ✦  Built React SPAs + Flask REST APIs + PostgreSQL backends   │
-│  ✦  Implemented JWT authentication & role-based access         │
-│  ✦  Optimised SQL queries → measurable latency reduction       │
-│  ✦  Used Git workflows, code reviews & agile sprints          │
-│  ✦  Certified March 20, 2026 — BCS Training Academy           │
+│  ✦  Built React SPAs + Flask REST APIs + PostgreSQL backends    │
+│  ✦  Implemented JWT authentication & role-based access          │
+│  ✦  Optimised SQL queries → measurable latency reduction        │
+│  ✦  Used Git workflows, code reviews & agile sprints            │
+│  ✦  Certified March 20, 2026 — BCS Training Academy             │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -232,17 +231,15 @@ A real-time weather dashboard consuming the OpenWeatherMap API through a Flask b
 
 ## 🔧 Currently
 
-```javascript
-const nanthakumar = {
-  building   : ["EquipNet India v2", "Portfolio Website"],
+```javascrip
+
+  building   : ["Portfolio Website"],
   learning   : ["System Design", "Docker basics", "Advanced SQL"],
   seeking    : "Full Stack / Python Developer role — India (remote/hybrid)",
-  available  : "Immediately",
+  available  :  Immediately,
   response   : "Within 24 hours",
-};
-```
 
----
+```
 
 <!-- ── ACTIVITY GRAPH ──────────────────────────────────────────── -->
 
